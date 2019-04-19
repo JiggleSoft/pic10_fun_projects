@@ -1,0 +1,5 @@
+PIC10 Fun Projects
+Copyright (c) 2019 Justin Lane.
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) licence.
+https://creativecommons.org/licenses/by-sa/4.0/
+For licence clarification or to discuss different licence terms, please email:pic10funprojects@jigglesoft.co.uk with a subject of 'Licensing'.
